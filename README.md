@@ -2,33 +2,32 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=DEADPOOL-Md+made+by+Frank+;Follow+me+IG+%40confronter._" alt="Typing SVG" /></a>
   
-  <img src="https://telegra.ph/file/25868e0b53e19c300a3aa.jpg" />
+  <img srsrc"https://i.imgur.com/arHOrNQ.jpeg" />
 </p>
 
 <p align="center">
-𝘿𝙀𝘼𝘿𝙋𝙊𝙊𝙇-𝙈𝘿 Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">Frank</a> . Star the repo with courage 🌟.
+NAMELESS TECH-V1 BUG Multi Device is a whatsapp bot created by <a href="https://github.com/Confronter" target="_blank">nameleaa</a> . Star the repo with courage 🌟.
 </p>
 
 
 
-## 💀```Deadpool Group ❌ Channel ✝️```
+## 💀```nameless ❌ Channel ✝️```
 
-- [ GROUP ](https://chat.whatsapp.com/Cl7CwM1UC9YEOWEiCzLAfe)
-- [Channel](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39)
+- [ channel ](https://whatsapp.com/channel/0029Vajz4XmCnA7pBowZQ53h)
+- [Channel]()
 
 ## 🔆🔆MADE BY ℂ𝕠𝕟𝕗𝕣𝕠𝕟𝕥𝕖𝕣❌𝕂𝕒𝕤̌𝕙𝕜𝕚𝕕
 
 # 💀```Must fork the repository✝️```
 
-- FORK THE REPOSITORY [Here](https://github.com/Confronter/Deadpool-Md/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Confronter/nameless-Md/fork)
 
-## `Deadpool Pair Code For Session`
+## `nameless Pair Code For Session`
 [![Deadpool](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@confrontermfisa/SUPERBOT-PairCode-4?s=app)
 
 
 # 💀```Deployment✝️```
-  # 😍Tutorial how to deploy
-[Video Tutorial](https://whatsapp.com/channel/0029Vag3MeuGJP8LZb1Okj39/116)
+  # 😍
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -39,7 +38,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Deadpool-Md
+* Locate nameless-Md
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -58,7 +57,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Confronter/Deadpool-Md
-cd Deadpool-Md
+cd nameless tech
 yarn install
 npm start
 ```
@@ -71,7 +70,7 @@ apt apt install libwebp
 apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Confronter/Deadpool-Md
-cd Deadpool-Md
+cd nameless tech
 npm start
 ```
 ## 💀For 24/7 Activation (Termux)
@@ -82,6 +81,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## 💀Developer
 
   - [**Follow Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp Me**](https://wa.me/254796283064)
+- [**WhatsApp Me**](https://wa.me/254113660118)
 ## THANKS✝️💛
   
